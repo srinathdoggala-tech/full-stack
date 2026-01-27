@@ -2,7 +2,7 @@ function Contact() {
   return (
     <div>
       <h2>Contact Page</h2>
-      <p>Email: shivom@gmail.com.com</p>
+      <p>Email: srinath@gmail.com</p>
     </div>
   );
 }
